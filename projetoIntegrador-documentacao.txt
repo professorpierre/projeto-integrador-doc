@@ -1,0 +1,3 @@
+Documentação do projeto integrador
+
+Este arquivo tem o objetivo de documentar os passos efetuados para construção do projeto integrador.
